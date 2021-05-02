@@ -1,6 +1,6 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
-
+import 'firebase/auth';
 let firebaseConfig = {
     apiKey: "AIzaSyBx0bdSDfTS58MRCTOtnnRT-AZKdiagIRk",
     authDomain: "vueapp-4d71b.firebaseapp.com",
